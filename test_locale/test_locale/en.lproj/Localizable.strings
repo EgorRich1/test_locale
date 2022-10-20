@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  test_locale
+
+  Created by Егор Ярошук on 20.10.22.
+  
+*/
+
+"welcome_string" = "Welcome";
+"test_string" = "Test";
